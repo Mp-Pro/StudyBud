@@ -1,0 +1,7 @@
+.\venv\Script\activate                                 --- to activate venv
+
+python -m django____                             --- to run django commands
+
+python .\manage.py runserver                 --- run a django server
+
+
